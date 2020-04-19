@@ -11,7 +11,7 @@ namespace WpfApp1
 {
     public class EmploeeVM
     {
-        public string EmpName { get; set; }
+        public string EmpName { get; set; } 
         public string EmpDesignation { get; set; }
         public EmploeeVM()
         {
